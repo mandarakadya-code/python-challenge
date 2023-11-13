@@ -16,3 +16,5 @@ PyPoll
 		The total number of votes each candidate won
 		The winner of the election based on popular vote
 	The output is printed to the terminal and is written to the outputPyPoll.txt file in the analysis folder
+	
+The code is to be run separately for PyBank and PyPoll and it is to be run from the "PyBank" and the "PyPoll" folders respectively.
